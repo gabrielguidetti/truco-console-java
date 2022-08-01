@@ -11,6 +11,14 @@ public class Placar {
 		vermelho = 0;
 	}
 	
+	public int getAzul() {
+		return azul;
+	}
+
+	public int getVermelho() {
+		return vermelho;
+	}
+
 	public void aumentarPonto(Duplas dupla, int qtd) {
 		if(dupla == Duplas.AZUL) {
 			azul += qtd;
