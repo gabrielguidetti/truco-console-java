@@ -1,1 +1,3 @@
 # truco-console-java
+
+Projeto em desenvolvimento...
